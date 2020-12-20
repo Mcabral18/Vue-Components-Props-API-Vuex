@@ -1,4 +1,4 @@
-# Component Hierarchy, Props and API - VueJs
+# Component Hierarchy, Props and API Vuex
 
 ### Setup
 * All data/functions will live in the rockets view
