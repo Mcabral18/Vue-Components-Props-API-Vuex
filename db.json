@@ -1,0 +1,22 @@
+{
+    "rockets": [
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bangabandhu_Satellite-1_Mission_%2842025499722%29.jpg/270px-Bangabandhu_Satellite-1_Mission_%2842025499722%29.jpg",
+            "country": "USA",
+            "description": "um foguete de dois estágios projetado e construído pela SpaceX no Estados Unidos",
+            "name": "Falcon 9"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/SpaceX_factory_Falcon_9_booster_tank.jpg/250px-SpaceX_factory_Falcon_9_booster_tank.jpg",
+            "country": "Rusia",
+            "description": "um foguete de dois estágios projetado e construído pela Rusia",
+            "name": "Falcon 1"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/CRS-8_first_stage_landing_%2825787998624%29.jpg/1280px-CRS-8_first_stage_landing_%2825787998624%29.jpg",
+            "country": "Portugal",
+            "description": "um foguete de dois estágios projetado e construído pela SpaceX em Portugal",
+            "name": "Falcon 2"
+        }
+    ]
+}
